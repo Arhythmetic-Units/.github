@@ -1,0 +1,12 @@
+# Public-content allowlist. New files must be added deliberately.
+# This does not inspect content or protect files already tracked by Git.
+*
+!/.gitignore
+!/AGENTS.md
+!/README.md
+!/CONTRIBUTING.md
+!/SUPPORT.md
+!/SECURITY.md
+!/profile/
+/profile/*
+!/profile/README.md
